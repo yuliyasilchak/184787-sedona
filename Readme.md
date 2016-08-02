@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Yuliya Silchak](https://up.htmlacademy.ru/htmlcss/14/user/184787).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Духницький] (https://htmlacademy.ru/profile/id59884).
 
 ---
 
